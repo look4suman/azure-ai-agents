@@ -1,0 +1,12 @@
+{
+  "Azure AI Agent(s) Server": {
+    "command": "python",
+    "args": [
+      "D:\\python-programs\\azure-ai-agents\\mcp\\AAI_server.py",
+      "AAI_server.py"
+    ],
+    "env": {
+      "PROJECT_ENDPOINT": ""
+    }
+  }
+}

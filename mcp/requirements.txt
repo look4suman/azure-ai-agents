@@ -1,0 +1,6 @@
+azure-ai-projects==1.0.0b10
+azure-identity==1.22.0
+python-dotenv==1.1.0
+
+mcp==1.8.1
+uvicorn==0.34.2
