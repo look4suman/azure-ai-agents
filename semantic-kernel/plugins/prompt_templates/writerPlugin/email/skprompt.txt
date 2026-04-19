@@ -1,0 +1,8 @@
+Write a short, professional email.
+
+Recipient: {{$email_id}}
+Message: {{$text}}
+
+Format:
+To: <recipient>
+Body: <email content>
